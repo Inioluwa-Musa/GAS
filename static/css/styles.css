@@ -1,0 +1,95 @@
+/* nav {
+    text-align: center;
+    background-color: gold;
+    padding-top: 10px;
+} */
+
+/* Styles for the logo */
+#logo {
+    display: block;
+    margin: 0 auto;
+    width: 150px;  /* Adjust this size as needed */
+    height: auto;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #4CAF50;
+    font-size: 2em;
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+p {
+    color: #333;
+    font-size: 1.1em;
+}
+
+form {
+    margin-top: 20px;
+}
+
+label {
+    font-weight: bold;
+}
+
+input[type="number"], select {
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#sellPriceDiv {
+    margin-top: 10px;
+}
+
+/* body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f5;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+} */
+
+form {
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.message-success {
+    color: green;
+}
+
+.message-error {
+    color: red;
+}
+
+#loading {
+    display: none;
+    font-size: 16px;
+    color: #333;
+}
